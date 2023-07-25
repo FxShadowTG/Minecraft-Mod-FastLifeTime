@@ -15,6 +15,7 @@
 ﻿优化了每个药剂的内容介绍
 
 新增了一个新道具-不惑之年药剂
+
 ![输入图片说明](https://foruda.gitee.com/images/1690271454025064851/6d93a7b8_11180561.png "image4.png")
 
 
@@ -37,18 +38,20 @@
 想了解更多？看下方就知道了。
 
 
-
 版本对比：
+
 ![输入图片说明](https://foruda.gitee.com/images/1690271482581948380/705d7615_11180561.png "image5.png")
 
 
 
 
 部分道具展示：
+
 ![输入图片说明](https://foruda.gitee.com/images/1690271491379021947/a738fb0a_11180561.png "image6.png")
 
 
 
 
 年龄BUFF对照表（若看不清请截图并放大后观看）：
+
 ![输入图片说明](https://foruda.gitee.com/images/1690271501614988535/14d4c17e_11180561.png "image7.png")
