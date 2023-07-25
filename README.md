@@ -2,8 +2,8 @@
 
 **Note that this module code is only available for preview and cannot be loaded into Minecraft International Edition. If you want to play this module, please search for the developer account "Brushing Monster Cage Studio" in my World China version of the bedrock platform, select the corresponding module to purchase and download for use. If you are also an MC enthusiast, why not click on Star support? Thank you!**
 
-该模组为【百年孤独[会老的世界]】的极速版本，适合中高水平的玩家前来挑战。
 
+该模组为【百年孤独[会老的世界]】的极速版本，适合中高水平的玩家前来挑战。
 
 
 230219版本更新：
