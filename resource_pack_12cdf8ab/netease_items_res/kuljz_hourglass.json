@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "kuljz:hourglass"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "kuljz:hourglass",
+            "register_to_create_menu": true
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+
+  "frames": [
+    { "filename": "00.png", "frame": {"x":0,"y":0,"w":1,"h":1}},
+    { "filename": "01.png", "frame": {"x":0,"y":0,"w":1,"h":1}},
+    { "filename": "02.png", "frame": {"x":0,"y":0,"w":1,"h":1}},
+    { "filename": "03.png", "frame": {"x":0,"y":0,"w":1,"h":1}},
+    { "filename": "04.png", "frame": {"x":0,"y":0,"w":1,"h":1}},
+    { "filename": "05.png", "frame": {"x":1,"y":0,"w":1,"h":1}},
+    { "filename": "06.png", "frame": {"x":1,"y":0,"w":1,"h":1}},
+    { "filename": "07.png", "frame": {"x":1,"y":0,"w":1,"h":1}},
+    { "filename": "08.png", "frame": {"x":1,"y":0,"w":1,"h":1}},
+    { "filename": "09.png", "frame": {"x":1,"y":0,"w":1,"h":1}},
+    { "filename": "10.png", "frame": {"x":2,"y":0,"w":1,"h":1}},
+    { "filename": "11.png", "frame": {"x":2,"y":0,"w":1,"h":1}},
+    { "filename": "12.png", "frame": {"x":2,"y":0,"w":1,"h":1}},
+    { "filename": "13.png", "frame": {"x":2,"y":0,"w":1,"h":1}},
+    { "filename": "14.png", "frame": {"x":2,"y":0,"w":1,"h":1}},
+    { "filename": "15.png", "frame": {"x":3,"y":0,"w":1,"h":1}},
+    { "filename": "16.png", "frame": {"x":3,"y":0,"w":1,"h":1}},
+    { "filename": "17.png", "frame": {"x":3,"y":0,"w":1,"h":1}},
+    { "filename": "18.png", "frame": {"x":3,"y":0,"w":1,"h":1}},
+    { "filename": "19.png", "frame": {"x":3,"y":0,"w":1,"h":1}},
+    { "filename": "20.png", "frame": {"x":4,"y":0,"w":1,"h":1}},
+    { "filename": "21.png", "frame": {"x":4,"y":0,"w":1,"h":1}},
+    { "filename": "22.png", "frame": {"x":4,"y":0,"w":1,"h":1}},
+    { "filename": "23.png", "frame": {"x":4,"y":0,"w":1,"h":1}},
+    { "filename": "24.png", "frame": {"x":4,"y":0,"w":1,"h":1}},
+    { "filename": "25.png", "frame": {"x":5,"y":0,"w":1,"h":1}},
+    { "filename": "26.png", "frame": {"x":5,"y":0,"w":1,"h":1}},
+    { "filename": "27.png", "frame": {"x":5,"y":0,"w":1,"h":1}},
+    { "filename": "28.png", "frame": {"x":5,"y":0,"w":1,"h":1}},
+    { "filename": "29.png", "frame": {"x":5,"y":0,"w":1,"h":1}}
+  ],
+
+  "meta": {
+    "version": "1.0",
+    "image": "Navigation_arrow.png",
+    "format": "RGBA8888",
+    "size": {"w":6,"h":1},
+    "scale": "1"
+  }
+
+}
+

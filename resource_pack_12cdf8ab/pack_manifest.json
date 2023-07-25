@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "2302c362-def2-4b73-b9dd-62051f8a312f",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "header": {
+    "description": "",
+    "name": "resource_pack",
+    "uuid": "12cdf8ab-1423-48a6-b85a-b30ccd04e7e3",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  }
+}

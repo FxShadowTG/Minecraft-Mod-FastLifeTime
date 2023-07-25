@@ -1,0 +1,16 @@
+{
+    "Arena.Component.Namespace": "kuljz",
+    "FirstTabSetting": 1,
+    "ShortItemSettings": [
+        "resource_pack_12cdf8ab\\ui",
+        "behavior_pack_7fbbf6cb\\Presets",
+        "behavior_pack_7fbbf6cb\\Parts",
+        "behavior_pack_7fbbf6cb\\BoxData",
+        "resource_pack_12cdf8ab\\effects",
+        "resource_pack_12cdf8ab\\models",
+        "resource_pack_12cdf8ab\\textures"
+    ],
+    "Uluru.autoLayerDict": {
+
+    }
+}

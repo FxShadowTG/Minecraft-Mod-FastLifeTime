@@ -1,0 +1,29 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:food": {
+                "can_always_eat": true,
+                "effects": [
+                    {
+                        "amplifier": 2,
+                        "chance": 1.0,
+                        "duration": 45,
+                        "name": "invisibility"
+                    }
+                ],
+                "nutrition": 0
+            },
+            "minecraft:max_stack_size": 1,
+            "minecraft:use_duration": 20.0,
+            "netease:customtips": {
+                "value": "§d一瓶喝了能衰老到 70 岁的药剂(立即获得透明效果，70以上使用无效)"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "kuljz:ChildrenToOlderDrug",
+            "register_to_create_menu": true
+        }
+    }
+}

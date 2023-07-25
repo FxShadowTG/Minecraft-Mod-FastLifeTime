@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "attack_4-0.png",
+	"frame": {"x":0,"y":0,"w":160,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":160},
+	"sourceSize": {"w":160,"h":160}
+},
+{
+	"filename": "attack_4-1.png",
+	"frame": {"x":160,"y":0,"w":160,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":160},
+	"sourceSize": {"w":160,"h":160}
+},
+{
+	"filename": "attack_4-2.png",
+	"frame": {"x":320,"y":0,"w":160,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":160},
+	"sourceSize": {"w":160,"h":160}
+},
+{
+	"filename": "attack_4-4.png",
+	"frame": {"x":480,"y":0,"w":160,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":160},
+	"sourceSize": {"w":160,"h":160}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "guangjian3.png",
+	"format": "RGBA8888",
+	"size": {"w":640,"h":160},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ed67603de7e3bc230f1d89f8478a5f37:2ba4ff0b0a1b172b393f84382d037053:f725575621fdfa1f0110c7d730f5b198$"
+}
+}

@@ -1,0 +1,29 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:food": {
+                "can_always_eat": true,
+                "effects": [
+                    {
+                        "amplifier": 2,
+                        "chance": 1.0,
+                        "duration": 45,
+                        "name": "health_boost"
+                    }
+                ],
+                "nutrition": 0
+            },
+            "minecraft:max_stack_size": 1,
+            "minecraft:use_duration": 20.0,
+            "netease:customtips": {
+                "value": "§b一瓶喝了能年轻到 18 岁的药剂(立即获得生命提升，18以下使用无效)"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "kuljz:olderToChildrenDrug",
+            "register_to_create_menu": true
+        }
+    }
+}

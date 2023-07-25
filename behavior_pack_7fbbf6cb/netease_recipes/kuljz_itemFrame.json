@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "kuljz:itemFrame"
+        },
+        "key": {
+            "E": {
+                "data": 0,
+                "item": "minecraft:torch"
+            },
+            "I": {
+                "data": 0,
+                "item": "minecraft:stick"
+            }
+        },
+        "pattern": [
+            "III",
+            "IEI",
+            "III"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "minecraft:glow_frame"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

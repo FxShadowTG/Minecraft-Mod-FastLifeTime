@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "kuljz:ChildrenToOlderDrug"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "kuljz:ChildrenToOlderDrug",
+            "register_to_create_menu": true
+        }
+    }
+}

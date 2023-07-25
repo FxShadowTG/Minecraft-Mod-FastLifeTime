@@ -1,0 +1,30 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "kuljz:oldertochildrendrug"
+        },
+        "key": {
+            "A": {
+                "data": 0,
+                "item": "minecraft:golden_apple"
+            },
+            "B": {
+                "data": 0,
+                "item": "minecraft:glass_bottle"
+            }
+        },
+        "pattern": [
+            "A",
+            "B"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "kuljz:olderToChildrenDrug"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

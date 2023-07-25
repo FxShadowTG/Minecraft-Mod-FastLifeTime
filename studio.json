@@ -1,0 +1,42 @@
+{
+  "Source": "空白附加包",
+  "CreateVersion": "2.5.0.275621",
+  "EditVersion": "2.5.0.275621",
+  "OldEditCount": 0,
+  "NewEditCount": 12,
+  "OldComponents": [],
+  "Account": "",
+  "UserName": "",
+  "UserId": "",
+  "Id": "7d4056abe0b145baa09f3502e1d2bc6b",
+  "EditType": 2,
+  "IsMap": false,
+  "CreateNew": true,
+  "EditName": "百年孤独[会死的世界]-极速版",
+  "GameType": 1,
+  "WorldType": 1,
+  "Seed": "",
+  "BlockNums": [
+    0,
+    0
+  ],
+  "BornPoint": [
+    0,
+    0,
+    0
+  ],
+  "SaveBackMapPath": "",
+  "SaveBackAddOnPath": "",
+  "EditAddOnPaths": [],
+  "EditMaterialPaths": [],
+  "EditLogFilePath": "",
+  "ServerName": "",
+  "StudioPort": 11978,
+  "DCWebUrl": "https://x19apigatewayexpr.nie.netease.com",
+  "ShowGuide": false,
+  "AssertCacheDir": "",
+  "ElkUrl": "",
+  "ShowGpuDriverTips": false,
+  "StudioTempPath": "",
+  "EditorResourcePackPath": ""
+}

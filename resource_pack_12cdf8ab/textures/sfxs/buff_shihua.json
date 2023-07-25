@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "buff_shihua-3.png",
+	"frame": {"x":1,"y":1,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80}
+},
+{
+	"filename": "buff_shihua-2.png",
+	"frame": {"x":83,"y":1,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80}
+},
+{
+	"filename": "buff_shihua-1.png",
+	"frame": {"x":165,"y":1,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80}
+},
+{
+	"filename": "buff_shihua-0.png",
+	"frame": {"x":247,"y":1,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "buff_bing.png",
+	"format": "RGBA8888",
+	"size": {"w":328,"h":82},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bd6cb77603e767cd65550340abe4f543:88494450853fb35def30a6824c7dec79:a50725e167366ee900486176d8d942ac$"
+}
+}

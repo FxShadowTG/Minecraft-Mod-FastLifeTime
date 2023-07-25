@@ -1,0 +1,172 @@
+{
+    "frames": [
+        {
+            "filename": "DMz1.png",
+            "frame": {
+                "h": 130,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sourceSize": {
+                "h": 130,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        {
+            "filename": "DMz2.png",
+            "frame": {
+                "h": 130,
+                "w": 130,
+                "x": 130,
+                "y": 0
+            },
+            "rotated": false,
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sourceSize": {
+                "h": 130,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        {
+            "filename": "DMz3.png",
+            "frame": {
+                "h": 130,
+                "w": 130,
+                "x": 260,
+                "y": 0
+            },
+            "rotated": false,
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sourceSize": {
+                "h": 130,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        {
+            "filename": "DMz4.png",
+            "frame": {
+                "h": 130,
+                "w": 130,
+                "x": 0,
+                "y": 130
+            },
+            "rotated": false,
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sourceSize": {
+                "h": 130,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        {
+            "filename": "DMz5.png",
+            "frame": {
+                "h": 130,
+                "w": 130,
+                "x": 130,
+                "y": 130
+            },
+            "rotated": false,
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sourceSize": {
+                "h": 130,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        {
+            "filename": "DMz6.png",
+            "frame": {
+                "h": 130,
+                "w": 130,
+                "x": 260,
+                "y": 130
+            },
+            "rotated": false,
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sourceSize": {
+                "h": 130,
+                "w": 130
+            },
+            "spriteSourceSize": {
+                "h": 130,
+                "w": 130,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    ],
+    "meta": {
+        "app": "https://www.codeandweb.com/texturepacker",
+        "format": "RGBA8888",
+        "image": "DMz.png",
+        "scale": "1",
+        "size": {
+            "h": 260,
+            "w": 390
+        },
+        "smartupdate": "$TexturePacker:SmartUpdate:f7a08fd7503d59468f5122350dcf46f0:ced3b83dff8f91ce3289be4a8b05d2b9:68391886ee60d7e5bb100a670517ecbb$",
+        "version": "1.0"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "kuljz:ChildrenToOlderDrug": {
+            "textures": "textures/items/ChildrenToolderDrug"
+        },
+        "kuljz:hourglass": {
+            "textures": "textures/items/hourglass"
+        },
+        "kuljz:midDrug": {
+            "textures": "textures/items/midDrug"
+        },
+        "kuljz:olderToChildrenDrug": {
+            "textures": "textures/items/olderToChildrenDrug"
+        }
+    },
+    "texture_name": "atlas.items"
+}

@@ -1,0 +1,30 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "kuljz:hourglass"
+        },
+        "key": {
+            "A": {
+                "data": 0,
+                "item": "minecraft:clock"
+            },
+            "B": {
+                "data": 0,
+                "item": "minecraft:glass_bottle"
+            }
+        },
+        "pattern": [
+            "A",
+            "B"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "kuljz:hourglass"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

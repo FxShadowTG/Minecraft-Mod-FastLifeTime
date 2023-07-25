@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "1.png",
+	"frame": {"x":0,"y":0,"w":256,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":512},
+	"sourceSize": {"w":256,"h":512}
+},
+{
+	"filename": "2.png",
+	"frame": {"x":0,"y":512,"w":256,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":512},
+	"sourceSize": {"w":256,"h":512}
+},
+{
+	"filename": "3.png",
+	"frame": {"x":0,"y":1024,"w":256,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":512},
+	"sourceSize": {"w":256,"h":512}
+},
+{
+	"filename": "4.png",
+	"frame": {"x":0,"y":1536,"w":256,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":512},
+	"sourceSize": {"w":256,"h":512}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "BombSplit.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:aca4528b3dd11746efad0c212ec17441:af92c01e4dfb569aeb2f2b12d57cd12b:d6619c40b5a7106f788cf87d0436b5e3$"
+}
+}

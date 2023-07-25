@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "buff_jiao_2-3.png",
+	"frame": {"x":1,"y":1,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "buff_jiao_2-2.png",
+	"frame": {"x":131,"y":1,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "buff_jiao_2-1.png",
+	"frame": {"x":261,"y":1,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "buff_jiao_2-0.png",
+	"frame": {"x":391,"y":1,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "buff_bing.png",
+	"format": "RGBA8888",
+	"size": {"w":520,"h":130},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a925d851b3d4099b86aa780e1d7ba065:8e65fc86ba77cff2ab520cffff091ba3:a50725e167366ee900486176d8d942ac$"
+}
+}

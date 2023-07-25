@@ -1,0 +1,223 @@
+{
+    "frames": [
+        {
+            "filename": "Test_pulling_0.png",
+            "frame": {
+                "h": 32,
+                "w": 32,
+                "x": 0,
+                "y": 0
+            },
+            "rotated": false,
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 32
+            },
+            "spriteSourceSize": {
+                "h": 32,
+                "w": 32,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        {
+            "filename": "Test_pulling_1.png",
+            "frame": {
+                "h": 32,
+                "w": 32,
+                "x": 32,
+                "y": 0
+            },
+            "rotated": false,
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 32
+            },
+            "spriteSourceSize": {
+                "h": 32,
+                "w": 32,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        {
+            "filename": "Test_pulling_2.png",
+            "frame": {
+                "h": 32,
+                "w": 32,
+                "x": 64,
+                "y": 0
+            },
+            "rotated": false,
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 16
+            },
+            "spriteSourceSize": {
+                "h": 32,
+                "w": 32,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        {
+            "filename": "Test_pulling_3.png",
+            "frame": {
+                "h": 32,
+                "w": 32,
+                "x": 96,
+                "y": 0
+            },
+            "rotated": false,
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 16
+            },
+            "spriteSourceSize": {
+                "h": 32,
+                "w": 32,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        {
+            "filename": "Test_pulling_4.png",
+            "frame": {
+                "h": 32,
+                "w": 32,
+                "x": 128,
+                "y": 0
+            },
+            "rotated": false,
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 16
+            },
+            "spriteSourceSize": {
+                "h": 32,
+                "w": 32,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        {
+            "filename": "Test_pulling_5.png",
+            "frame": {
+                "h": 32,
+                "w": 32,
+                "x": 160,
+                "y": 0
+            },
+            "rotated": false,
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 16
+            },
+            "spriteSourceSize": {
+                "h": 32,
+                "w": 32,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        {
+            "filename": "Test_pulling_6.png",
+            "frame": {
+                "h": 32,
+                "w": 32,
+                "x": 192,
+                "y": 0
+            },
+            "rotated": false,
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 16
+            },
+            "spriteSourceSize": {
+                "h": 32,
+                "w": 32,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        },
+        {
+            "filename": "Test_pulling_7.png",
+            "frame": {
+                "h": 32,
+                "w": 32,
+                "x": 224,
+                "y": 0
+            },
+            "rotated": false,
+            "scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "sourceSize": {
+                "h": 32,
+                "w": 16
+            },
+            "spriteSourceSize": {
+                "h": 32,
+                "w": 32,
+                "x": 0,
+                "y": 0
+            },
+            "trimmed": false
+        }
+    ],
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "format": "RGBA8888",
+        "image": "sickle.png",
+        "scale": "1",
+        "size": {
+            "h": 32,
+            "w": 256
+        },
+        "version": "1.0"
+    }
+}
